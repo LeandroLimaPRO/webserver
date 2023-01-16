@@ -98,11 +98,11 @@ void updLed() {
 
 #ifndef MENU_SSID
   //#error "need to define WiFi SSID here"
-  #define MENU_SSID "menu"
+  #define MENU_SSID "2TY"
 #endif
 #ifndef MENU_PASS
   //#error "need to define WiFi password here"
-  #define MENU_PASS "123456789"
+  #define MENU_PASS "ewnsaseon13"
 #endif
 
 // char wifiSSID[wifiSSIDLen+1];//="                                ";
